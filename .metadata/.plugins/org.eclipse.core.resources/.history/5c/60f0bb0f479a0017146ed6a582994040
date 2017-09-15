@@ -1,0 +1,17 @@
+import org.testng.annotations.Test;
+
+public class testngapp {
+	
+	@Test
+	public void openbrowser()
+	{
+	System.out.println("open browser");
+	}
+	
+	@Test
+	public void closebrowser()
+	{
+	System.out.println("close browser");
+	}
+
+}

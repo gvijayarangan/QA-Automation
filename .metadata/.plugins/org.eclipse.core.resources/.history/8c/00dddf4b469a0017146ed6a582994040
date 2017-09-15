@@ -1,0 +1,8 @@
+package testngfiles;
+
+public class Annotations {
+
+	@Test
+	system.out.println("test");
+
+}

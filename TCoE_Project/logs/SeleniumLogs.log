@@ -1,0 +1,1282 @@
+[01.05.2015] [11:36:59] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"css selector","selector":"abc"}
+Command duration or timeout: 30.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '10.15.212.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d808bd1d-69b9-4c80-9cca-f090a05b2b0e
+*** Element info: {Using=css selector, value=abc}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@312ab28e
+[01.05.2015] [11:41:21] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"css selector","selector":"abc"}
+Command duration or timeout: 30.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '10.15.212.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1b0fe2f1-a32f-4794-b8f3-a82d0a66ddca
+*** Element info: {Using=css selector, value=abc}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@312ab28e
+[01.05.2015] [11:44:16] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"css selector","selector":"abc"}
+Command duration or timeout: 30.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '10.15.212.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: bc415402-b772-4c45-95bf-b75d357ca388
+*** Element info: {Using=css selector, value=abc}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@312ab28e
+[01.05.2015] [11:46:35] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  no such element
+  (Session info: chrome=42.0.2311.90)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.01 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '10.15.212.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, chrome={userDataDir=C:\Users\tapdas\AppData\Local\Temp\scoped_dir14300_29887}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, version=42.0.2311.90, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d43ff0a6c23d1ba0c5090b3c8cbcc00d
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@22356acd
+[01.05.2015] [12:06:54] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"css selector","selector":"abc"}
+Command duration or timeout: 30.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '10.15.212.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 98192a7c-20d4-45b7-85e0-f594c9e5ed2b
+*** Element info: {Using=css selector, value=abc}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@312ab28e
+[01.05.2015] [14:11:41] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"css selector","selector":"abc"}
+Command duration or timeout: 30.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '10.15.212.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8d46c1de-e5f3-4196-befd-7b44eff60233
+*** Element info: {Using=css selector, value=abc}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@312ab28e
+[01.05.2015] [14:19:11] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"css selector","selector":"abc"}
+Command duration or timeout: 30.12 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '10.15.212.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1107b376-cb1b-49a0-a0cf-95c1ac431b6c
+*** Element info: {Using=css selector, value=abc}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@312ab28e
+[04.05.2015] [16:42:48] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Unable to locate element: {"method":"css selector","selector":".TimeDetailHoursTable > tbody > tr > td > span > input"}
+Command duration or timeout: 30.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '10.15.212.104', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c120a0e3-172d-4e21-9a56-ab8e75ffdb4e
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@ccb4b1b
+[04.05.2015] [16:49:17] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"css selector","selector":"abc"}
+Command duration or timeout: 30.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '10.15.212.104', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: bed7668b-6239-4e61-85a3-6deacc84b70f
+*** Element info: {Using=css selector, value=abc}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@312ab28e
+[09.06.2015] [21:02:37] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Element not found in the cache - perhaps the page has changed since it was looked up
+Command duration or timeout: 30.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.227.178', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6d27ffce-82dd-48be-9ae0-b1bdb1cc2ae8
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@3fb6cf60
+[09.06.2015] [21:21:31] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.227.178', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@35d08e6c
+[09.06.2015] [21:39:54] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  null
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@3c0be339
+[09.06.2015] [21:44:56] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.227.178', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@626c44e7
+[09.06.2015] [23:06:35] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  null
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@38102d01
+[09.06.2015] [23:08:52] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.227.178', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@44e3a2b2
+[09.06.2015] [23:11:23] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.227.178', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@44e3a2b2
+[09.06.2015] [23:13:38] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Element cannot be scrolled into view:[object HTMLDivElement]
+Command duration or timeout: 74 milliseconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.227.178', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b56a2387-d9c3-47e7-9558-9c66272628cb
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@5066d65f
+[10.06.2015] [05:59:45] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Element cannot be scrolled into view:[object HTMLDivElement]
+Command duration or timeout: 122 milliseconds
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 40637a65-4e3a-4278-b6c1-38f439eb99f5
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@1d0d6318
+[10.06.2015] [06:17:47] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Element cannot be scrolled into view:[object HTMLDivElement]
+Command duration or timeout: 86 milliseconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 38a86898-f20b-4ee7-ac2f-917a1717d20a
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@5066d65f
+[10.06.2015] [06:27:31] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  null
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@747edf66
+[10.06.2015] [06:29:30] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Element cannot be scrolled into view:[object HTMLDivElement]
+Command duration or timeout: 112 milliseconds
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e20e4ea8-098b-4f2c-94fc-c38c06502ed4
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@1d0d6318
+[10.06.2015] [06:43:52] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@c055c54
+[10.06.2015] [06:46:06] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_lblStatusText"}
+Command duration or timeout: 60.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1e633ea8-5ef6-40a7-8657-445f03dba708
+*** Element info: {Using=id, value=cphBodyContent_lblStatusText}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@4bc28c33
+[10.06.2015] [07:10:29] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@2e554a3b
+[10.06.2015] [07:13:05] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  element not visible
+  (Session info: chrome=43.0.2357.81)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 66 milliseconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, chrome={userDataDir=C:\Users\tapdas\AppData\Local\Temp\scoped_dir3916_7186}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, version=43.0.2357.81, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d7a1d0fcb97830c40c92925d49e71c28
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@7d1cfb8b
+[10.06.2015] [07:17:20] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  no such element
+  (Session info: chrome=43.0.2357.81)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, chrome={userDataDir=C:\Users\tapdas\AppData\Local\Temp\scoped_dir4672_23212}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, version=43.0.2357.81, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d714b316088a05510dc52cd85b5be276
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@63787180
+[10.06.2015] [07:30:11] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@485e36bc
+[10.06.2015] [08:13:40] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@7e276594
+[10.06.2015] [08:16:59] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@3c9bfddc
+[10.06.2015] [08:18:50] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Element cannot be scrolled into view:[object HTMLDivElement]
+Command duration or timeout: 154 milliseconds
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2e3c5cce-075c-4d64-8889-7c54a1891c8a
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@3a1dd365
+[10.06.2015] [08:19:57] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"css selector","selector":"#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span"}
+Command duration or timeout: 30.16 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4691872a-4a60-4d4c-b446-868d9a187105
+*** Element info: {Using=css selector, value=#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@7c209437
+[10.06.2015] [10:28:37] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"lblContractorType"}
+Command duration or timeout: 20.13 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 54adf8b8-6e49-46de-80ba-5ac6a20aec13
+*** Element info: {Using=id, value=lblContractorType}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@68044f4
+[10.06.2015] [10:29:47] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"css selector","selector":"#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span"}
+Command duration or timeout: 38.41 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4162a911-5906-4de2-9310-a98da8a1bfc2
+*** Element info: {Using=css selector, value=#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@f667fe
+[10.06.2015] [10:41:49] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Window not found. The browser window may have been closed.
+Command duration or timeout: 85 milliseconds
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b75ed23b-b356-4cb1-a830-7b67cc4ee839
+*** Element info: {Using=id, value=cphBodyContent_txtPassword}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@c35172e
+[10.06.2015] [10:42:52] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"css selector","selector":"#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span"}
+Command duration or timeout: 36.56 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 7e57afb8-01c7-49cb-a009-769e02b63890
+*** Element info: {Using=css selector, value=#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@57459491
+[10.06.2015] [10:45:52] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_lblStatusText"}
+Command duration or timeout: 20.39 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 75ecbbc5-11ba-4ed5-bc27-5b0fa80e53b9
+*** Element info: {Using=id, value=cphBodyContent_lblStatusText}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@395b56bb
+[10.06.2015] [10:47:05] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"css selector","selector":"#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span"}
+Command duration or timeout: 40.46 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1483d616-82be-4ec5-9ccd-8a872d129ab7
+*** Element info: {Using=css selector, value=#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@2262b621
+[10.06.2015] [10:51:00] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"link text","selector":"Contractor"}
+Command duration or timeout: 24.46 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c505df66-44dc-4e47-bacc-ee86d7ffdec3
+*** Element info: {Using=link text, value=Contractor}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@4566d049
+[10.06.2015] [10:53:09] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"css selector","selector":"#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span"}
+Command duration or timeout: 65.18 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 167d0181-22e1-4818-9001-5a1b9079d3b8
+*** Element info: {Using=css selector, value=#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@1a7288a3
+[10.06.2015] [12:04:19] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@3401a114
+[10.06.2015] [12:05:48] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Unable to locate element: {"method":"link text","selector":"Contractor"}
+Command duration or timeout: 22.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fd25d224-8ca5-4722-9c29-b2e84cd2a645
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@77d2e85
+[10.06.2015] [12:12:52] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@5066d65f
+[10.06.2015] [12:14:10] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Unable to locate element: {"method":"link text","selector":"Contractor"}
+Command duration or timeout: 26.79 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 97394f3c-4091-4b1e-a40f-99e4ec7f1064
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@3bd418e4
+[10.06.2015] [12:16:18] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Unable to locate element: {"method":"link text","selector":"Contractor"}
+Command duration or timeout: 22.63 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5eeb6b37-f93d-4a77-bc8a-06899c5bb690
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@3bd418e4
+[10.06.2015] [12:20:24] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@655ef322
+[10.06.2015] [12:22:13] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@7c1e2a2d
+[10.06.2015] [12:23:32] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Unable to locate element: {"method":"link text","selector":"http://devcr.dhss.state.de.us/DSS_POC_INT/Default.aspx"}
+Command duration or timeout: 25.32 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 944e3ed0-2cfd-421e-b97e-21aed8905ce8
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@3401a114
+[10.06.2015] [12:30:22] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Unable to locate element: {"method":"link text","selector":"Contractor"}
+Command duration or timeout: 20.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ba4ac80a-439d-4f56-9c9d-c39b29bc349b
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@544820b7
+[10.06.2015] [12:31:46] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"lnkAddContractor"}
+Command duration or timeout: 20.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: aac25f9d-5c32-4188-925a-2006315f5bd0
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@e84a8e1
+[10.06.2015] [12:33:08] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@7e276594
+[10.06.2015] [12:35:36] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Window not found. The browser window may have been closed.
+Command duration or timeout: 23 milliseconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 181e073f-788c-45a5-b88f-00eae82752d0
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@1a9c38eb
+[10.06.2015] [12:39:47] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Unable to locate element: {"method":"link text","selector":"Contractor"}
+Command duration or timeout: 21.95 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e03b4e57-eeeb-4250-ba22-023caa1c0347
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@655ef322
+[10.06.2015] [12:41:23] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@3f6db3fb
+[10.06.2015] [12:47:20] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_lblStatusText"}
+Command duration or timeout: 20.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0aae1013-f310-4fe0-bfc4-a03bc74ba458
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@2371aaca
+[10.06.2015] [12:49:35] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_lblStatusText"}
+Command duration or timeout: 20.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1023aaaf-f5df-4146-b7e1-1c0fff286dc5
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@736d6a5c
+[10.06.2015] [13:09:46] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Element cannot be scrolled into view:[object HTMLDivElement]
+Command duration or timeout: 140 milliseconds
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0f830d70-93be-4d34-80c7-da0d4a96f663
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@13e547a9
+[10.06.2015] [13:10:42] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"css selector","selector":"#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span"}
+Command duration or timeout: 32.54 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fc8342d8-c3f7-413c-8dae-40d5bb8e8635
+*** Element info: {Using=css selector, value=#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@58c34bb3
+[10.06.2015] [13:12:52] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_lblStatusText"}
+Command duration or timeout: 20.15 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c32acf6f-750f-4bf3-ae04-3f1e008f6c7e
+*** Element info: {Using=id, value=cphBodyContent_lblStatusText}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@3fb6cf60
+[10.06.2015] [13:13:50] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"css selector","selector":"#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span"}
+Command duration or timeout: 33.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3ea53a35-df8f-4a19-8cc3-9e17efeeb3f4
+*** Element info: {Using=css selector, value=#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@56a4479a
+[10.06.2015] [13:25:32] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_lblStatusText"}
+Command duration or timeout: 20.15 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 06d99fd3-2969-4a2a-a9e3-fc358909c36c
+*** Element info: {Using=id, value=cphBodyContent_lblStatusText}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@3fb6cf60
+[10.06.2015] [13:26:28] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"css selector","selector":"#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span"}
+Command duration or timeout: 32.83 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.244.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 99ee0f5c-b01f-4769-bdce-05931515f84a
+*** Element info: {Using=css selector, value=#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@56a4479a
+[16.06.2015] [14:21:08] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  null
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@1dd6d4b7
+[16.06.2015] [14:22:15] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  null
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@1dd6d4b7
+[16.06.2015] [14:24:32] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.249.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@74a6a609
+[16.06.2015] [14:32:20] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  null
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@1dd6d4b7
+[16.06.2015] [14:35:34] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  null
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@1dd6d4b7
+[16.06.2015] [14:40:50] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Unable to locate element: {"method":"css selector","selector":"#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span"}
+Command duration or timeout: 30.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.249.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c792658f-8a61-4433-a67e-e98967cd2909
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@5ddea849
+[16.06.2015] [15:10:21] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Unable to locate element: {"method":"css selector","selector":"#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span"}
+Command duration or timeout: 30.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.249.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6a50322c-21c9-49b1-b453-2bb64d3fee17
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@5ddea849
+[16.06.2015] [15:15:01] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.249.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@544820b7
+[16.06.2015] [15:17:56] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Unable to locate element: {"method":"css selector","selector":"#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span"}
+Command duration or timeout: 30.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.249.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 91082214-6fbe-4a60-96a8-20d0936c6b79
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@5ddea849
+[16.06.2015] [15:23:20] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.249.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@544820b7
+[16.06.2015] [15:24:24] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Unable to locate element: {"method":"css selector","selector":"#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span"}
+Command duration or timeout: 30.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.249.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2ba1f7f6-57d7-47ce-9ed2-5536d35d02ff
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@5ddea849
+[16.06.2015] [15:28:54] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Unable to locate element: {"method":"css selector","selector":"#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span"}
+Command duration or timeout: 30.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.249.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 40b065bc-33bc-409d-a347-336662029aa1
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@5ddea849
+[16.06.2015] [16:00:24] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Unable to locate element: {"method":"css selector","selector":"#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span"}
+Command duration or timeout: 30.09 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.249.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 7d4b1653-93b3-4ddb-9f48-fc1368c9c26c
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@15eebbff
+[16.06.2015] [16:09:39] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.249.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@38f57b3d
+[16.06.2015] [16:15:25] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Unable to locate element: {"method":"xpath","selector":"/html/body/form/div[3]/div[2]/table/tbody/tr[2]/td[3]/table/tbody/tr/td/div[1]/div/table/tbody/tr[2]/td/table/tbody/tr/td/table[1]/tbody/tr[2]/td[1]"}
+Command duration or timeout: 32.68 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.249.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a60fa44e-0367-4f7e-947b-0751f75ddfc0
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@18245eb0
+[16.06.2015] [16:24:08] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"ctl00_ctl00_ctl00_dxpnlMain_HtmlBody_PageContent_PageBodyContent_PageBodyContent_fvTechnical_PersonDemographics_ddeBeginDate_I"}
+Command duration or timeout: 35.28 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.249.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 811cca6e-ff0e-4dbc-ad76-3cc4398560c8
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@410ae9a3
+[16.06.2015] [16:32:12] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Unable to locate element: {"method":"xpath","selector":"/html/body/form/div[3]/div[2]/table/tbody/tr[2]/td[3]/table/tbody/tr/td/div[1]/div/table/tbody/tr[2]/td/table/tbody/tr/td/table[1]/tbody/tr[2]/td[1]"}
+Command duration or timeout: 31.79 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.249.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 286548d9-8bf4-428f-b36c-7c6da85c7911
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@18245eb0
+[16.06.2015] [16:39:59] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.249.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@6ca0256d
+[16.06.2015] [16:48:17] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Unable to locate element: {"method":"xpath","selector":"/html/body/form/div[3]/div[2]/table/tbody/tr[2]/td[3]/table/tbody/tr/td/div[1]/div/table/tbody/tr[2]/td/table/tbody/tr/td/table[1]/tbody/tr[2]/td[1]"}
+Command duration or timeout: 32.19 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.249.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6750578-5be0-4ad7-8456-02c528b3f62b
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@24fb6a80
+[16.06.2015] [16:57:14] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Unable to locate element: {"method":"xpath","selector":"/html/body/form/div[3]/div[2]/table/tbody/tr[2]/td[3]/table/tbody/tr/td/div[1]/div/table/tbody/tr[2]/td/table/tbody/tr/td/table[1]/tbody/tr[2]/td[1]"}
+Command duration or timeout: 34.43 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.249.88', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 03bbe6d1-c0c1-439c-9b9e-5f20ae4a9060
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@72a85671
+[16.06.2015] [23:29:37] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.245.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@c260bdc
+[16.06.2015] [23:31:29] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Element is not currently visible and so may not be interacted with
+Command duration or timeout: 30.15 seconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.245.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 90df7c30-79a4-438a-890f-f87cb8be51ca
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@7d3430a7
+[16.06.2015] [23:41:48] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"ctl00_ctl00_ctl00_dxpnlMain_HtmlBody_PageContent_PageBodyContent_PageBodyContent_fvTechnical_PersonDemographics_ddeBeginDate_I"}
+Command duration or timeout: 35.89 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.245.106', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: eb248142-cca5-49da-a148-dada3f364351
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@7e242b4d
+[17.06.2015] [06:37:18] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.245.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@74cadd41
+[17.06.2015] [06:43:15] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Unable to locate element: {"method":"xpath","selector":"/html/body/form/div[3]/div[2]/table/tbody/tr[2]/td[3]/table/tbody/tr/td/div[1]/div/table/tbody/tr[2]/td/table/tbody/tr/td/table[1]/tbody/tr[2]/td[1]"}
+Command duration or timeout: 36.52 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.245.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b1fa1225-9c27-4832-a1fc-2bf736927d7b
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@72a85671
+[17.06.2015] [06:48:34] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Element is not currently visible and so may not be interacted with
+Command duration or timeout: 20.14 seconds
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.245.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 74853686-e0fb-4165-ae45-49251886c763
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@78365cfa
+[17.06.2015] [06:49:50] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Element is not currently visible and so may not be interacted with
+Command duration or timeout: 30.27 seconds
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.245.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 01516b1d-7c7c-4255-9704-8f04207ba58d
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@3d08f3f5
+[17.06.2015] [06:53:46] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.245.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@74a6a609
+[17.06.2015] [07:02:11] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_lblStatusText"}
+Command duration or timeout: 20.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.245.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 58a6f1f5-a4c5-42e9-a4cf-cea1bc13962d
+*** Element info: {Using=id, value=cphBodyContent_lblStatusText}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@640f11a1
+[17.06.2015] [07:05:11] INFO [main] actionLibrary.WorkerWebCommonFlow (?:?) - Case No. : 2007653529
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@640f11a1
+[17.06.2015] [07:06:51] INFO [main] actionLibrary.WorkerWebCommonFlow (?:?) - Parent MCI No. : 1000018740
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@640f11a1
+[17.06.2015] [07:06:51] INFO [main] actionLibrary.WorkerWebCommonFlow (?:?) - Child MCI No. : 1000018741
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@640f11a1
+[17.06.2015] [07:29:18] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_txtUserName"}
+Command duration or timeout: 20.19 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '10.0.0.6', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: cb29bceb-9d36-4d2a-8eb2-7f682158842b
+*** Element info: {Using=id, value=cphBodyContent_txtUserName}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@8c11eee
+[17.06.2015] [07:30:29] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_txtUserName"}
+Command duration or timeout: 60.09 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '10.0.0.6', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1e75792d-a8c9-4544-8df5-c951e4c14ee4
+*** Element info: {Using=id, value=cphBodyContent_txtUserName}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@3276732
+[17.06.2015] [07:40:44] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_lblStatusText"}
+Command duration or timeout: 104.26 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.245.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0ef99279-0777-4177-8c48-ed9d381d8d48
+*** Element info: {Using=id, value=cphBodyContent_lblStatusText}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@640f11a1
+[17.06.2015] [08:47:48] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.245.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@4cf8b2dc
+[17.06.2015] [08:48:03] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.245.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@10650953
+[17.06.2015] [08:55:31] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Element cannot be scrolled into view:[object HTMLDivElement]
+Command duration or timeout: 123 milliseconds
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.245.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c641b3e0-b216-484e-b53e-3e26a8b3d3f3
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@2f05be7f
+[17.06.2015] [08:57:46] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Element is not currently visible and so may not be interacted with
+Command duration or timeout: 30.17 seconds
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.245.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8f0107e0-d276-46cf-b3b5-d18d8c5231a3
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@60d8c0dc
+[17.06.2015] [09:23:26] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_lblStatusText"}
+Command duration or timeout: 20.15 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.245.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 846ca8c0-2af7-455e-b491-ae8a2e4903f3
+*** Element info: {Using=id, value=cphBodyContent_lblStatusText}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@640f11a1
+[17.06.2015] [09:24:42] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"css selector","selector":"#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span"}
+Command duration or timeout: 56.35 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.245.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6012a565-8578-4dfd-9a89-5679e3ea1c96
+*** Element info: {Using=css selector, value=#ctl00_ctl00_ctl00_HtmlHead_Menubar_mnuMain_DXI0_T > div > span}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@42e3ede4
+[17.06.2015] [09:33:41] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_lblStatusText"}
+Command duration or timeout: 20.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.245.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.1.1, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2ff1d8ab-cd9e-45c5-bc8c-93931030f8d0
+*** Element info: {Using=id, value=cphBodyContent_lblStatusText}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@640f11a1
+[17.06.2015] [09:34:14] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'USBLRTAPDAS1', ip: '172.27.245.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@3e5499cc
+[18.07.2015] [08:08:48] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.46.0', revision: '87c69e2', time: '2015-06-04 16:17:10'
+System info: host: 'PREB8CA3AD8A91E', ip: '10.0.0.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@2a2c13a8
+[18.07.2015] [08:09:23] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.46.0', revision: '87c69e2', time: '2015-06-04 16:17:10'
+System info: host: 'PREB8CA3AD8A91E', ip: '10.0.0.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@b6b1987
+[18.07.2015] [08:09:36] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.46.0', revision: '87c69e2', time: '2015-06-04 16:17:10'
+System info: host: 'PREB8CA3AD8A91E', ip: '10.0.0.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@2364305a
+[18.07.2015] [09:13:43] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '10.0.0.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@5f7b97da
+[18.07.2015] [09:17:38] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_txtUserName"}
+Command duration or timeout: 20.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '10.0.0.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2d5ba33d-03ab-4de0-999a-a108d26fb9a4
+*** Element info: {Using=id, value=cphBodyContent_txtUserName}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@5c10f1c3
+[18.07.2015] [09:19:03] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_txtUserName"}
+Command duration or timeout: 20.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '10.0.0.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8172a8f0-252e-4928-881c-a6ae81264c6b
+*** Element info: {Using=id, value=cphBodyContent_txtUserName}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@5c10f1c3
+[18.07.2015] [17:42:44] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_txtUserName"}
+Command duration or timeout: 30154.68 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '10.0.0.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 860b6f74-7a04-4b21-89fe-03cca693a487
+*** Element info: {Using=id, value=cphBodyContent_txtUserName}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@5c10f1c3
+[18.07.2015] [17:44:11] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_txtUserName"}
+Command duration or timeout: 60.19 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '10.0.0.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 43dd7569-2599-4887-ab71-4e79c3878b61
+*** Element info: {Using=id, value=cphBodyContent_txtUserName}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@25e2a451
+[18.07.2015] [17:58:40] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_txtUserName"}
+Command duration or timeout: 20.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '10.0.0.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 20a0fe82-4069-44f3-a542-c35c399bf14d
+*** Element info: {Using=id, value=cphBodyContent_txtUserName}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@5c10f1c3
+[18.07.2015] [17:59:44] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_txtUserName"}
+Command duration or timeout: 60.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '10.0.0.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3366b7d1-b30a-4592-84d1-93c1a1589709
+*** Element info: {Using=id, value=cphBodyContent_txtUserName}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@163d04ff
+[18.07.2015] [18:02:24] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_txtUserName"}
+Command duration or timeout: 20.13 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '10.0.0.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 282811c8-b2db-4064-b3f3-34b4a0fbfc3d
+*** Element info: {Using=id, value=cphBodyContent_txtUserName}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@5c10f1c3
+[18.07.2015] [18:03:28] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_txtUserName"}
+Command duration or timeout: 60.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '10.0.0.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4c82067c-925d-467b-8048-59b47046dad6
+*** Element info: {Using=id, value=cphBodyContent_txtUserName}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@163d04ff
+[18.07.2015] [18:05:24] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '10.0.0.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@5f7b97da
+[18.07.2015] [18:05:35] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '10.0.0.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@60641ec8
+[18.07.2015] [18:08:03] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_txtUserName"}
+Command duration or timeout: 20.13 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '10.0.0.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 965d07c1-eb3a-41a6-a28e-920e48a294ca
+*** Element info: {Using=id, value=cphBodyContent_txtUserName}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@5c10f1c3
+[18.07.2015] [18:09:08] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_txtUserName"}
+Command duration or timeout: 60.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '10.0.0.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: abff54d0-cac6-404f-bce2-368e3c878c58
+*** Element info: {Using=id, value=cphBodyContent_txtUserName}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@163d04ff
+[18.07.2015] [18:17:34] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_txtUserName"}
+Command duration or timeout: 20.14 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '10.0.0.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4d101fcb-8192-479c-ad5d-1cf9f5ec6b3f
+*** Element info: {Using=id, value=cphBodyContent_txtUserName}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@5c10f1c3
+[18.07.2015] [18:17:51] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '10.0.0.12', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@788fcafb
+[18.07.2015] [18:35:32] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_txtUserName"}
+Command duration or timeout: 20.16 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '127.0.0.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d82396c1-1e64-41cc-b3cc-293ac113e5dc
+*** Element info: {Using=id, value=cphBodyContent_txtUserName}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@5c10f1c3
+[18.07.2015] [18:35:45] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '127.0.0.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@788fcafb
+[18.07.2015] [18:38:24] ERROR [main] errorHandling.ErrorHandler (ErrorHandler.java:193) - ERRORED	Error:  Error communicating with the remote browser. It may have died.
+Build info: version: '2.46.0', revision: '87c69e2', time: '2015-06-04 16:17:10'
+System info: host: 'PREB8CA3AD8A91E', ip: '127.0.0.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: driver.version: RemoteWebDriver
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@2a2c13a8
+[20.07.2015] [23:02:09] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_txtUserName"}
+Command duration or timeout: 60.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '127.0.0.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6e5aaab0-fc66-4975-b60a-649354c7d4e5
+*** Element info: {Using=id, value=cphBodyContent_txtUserName}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@4351c8c3
+[20.07.2015] [23:02:50] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_txtUserName"}
+Command duration or timeout: 20.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '127.0.0.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 76743016-487b-4417-a6ec-af521e86300f
+*** Element info: {Using=id, value=cphBodyContent_txtUserName}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@5c10f1c3
+[20.07.2015] [23:03:56] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_txtUserName"}
+Command duration or timeout: 60.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '127.0.0.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 42247c15-814d-44de-a8e4-8f7ed2468481
+*** Element info: {Using=id, value=cphBodyContent_txtUserName}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@163d04ff
+[28.07.2015] [10:31:05] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_txtUserName"}
+Command duration or timeout: 20.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '127.0.0.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3c6b69ef-2cd3-40bb-836d-e504e694f4b8
+*** Element info: {Using=id, value=cphBodyContent_txtUserName}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@2320fa6f
+[28.07.2015] [10:32:10] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_txtUserName"}
+Command duration or timeout: 60.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '127.0.0.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f23e7ac8-635b-4d62-b3e3-fb5121fed470
+*** Element info: {Using=id, value=cphBodyContent_txtUserName}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@2f05be7f
+[28.07.2015] [10:32:44] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_txtUserName"}
+Command duration or timeout: 20.14 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '127.0.0.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9d4d03d3-0013-40fb-a2f4-8d40a9b91609
+*** Element info: {Using=id, value=cphBodyContent_txtUserName}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@2320fa6f
+[28.07.2015] [10:33:49] ERROR [main] errorHandling.ErrorHandler (?:?) - ERRORED	Error:  Unable to locate element: {"method":"id","selector":"cphBodyContent_txtUserName"}
+Command duration or timeout: 60.14 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'PREB8CA3AD8A91E', ip: '127.0.0.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=39.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8ee3eb44-8a34-4f34-a2a9-9c8363f33094
+*** Element info: {Using=id, value=cphBodyContent_txtUserName}
+
+
+StackTrace : [Ljava.lang.StackTraceElement;@2f05be7f

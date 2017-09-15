@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestingCoE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+  <!-- Choose the Environment to run the Test in -->
+  <Environment>
+    <Name>SAT</Name>
+    <URL>http://google.com/</URL>
+    <TestDataFolderPath></TestDataFolderPath>
+    <TestResultsFolderPath>\\pwishbgdts99\PELICAN\TestingTeam\Test Automation\PELICAN\Test Results\Summary</TestResultsFolderPath>
+    <ScreenShotFolderPath>\\pwishbgdts99\PELICAN\TestingTeam\Test Automation\PELICAN\Test Results\Screenshots</ScreenShotFolderPath>
+    <ScreenShotCapture>Yes</ScreenShotCapture>
+    <CapturePageTitle>No</CapturePageTitle>
+    <DebugMode>N</DebugMode>
+    <DataXmlFileName>CCWProvidersAndCases.xml</DataXmlFileName>
+    <SaveToXmlDataFile>N</SaveToXmlDataFile>
+    <Database>
+      <username>ccmis_genrc_user</username>
+      <encrypted_password>nzBVTaMK6ELnUapxtvSnhA==</encrypted_password>
+      <connection_name>ccmis_load</connection_name>
+    </Database>
+  </Environment>
+</TestingCoE>
