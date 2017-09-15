@@ -27,7 +27,7 @@ public class Annotations  {
 	
 	}
 	
-	@Test(dependsOnMethods= {"Openbrowser"})
+	@Test
 	public void Closebrowser()
 	{
 	System.out.println("close browser");
