@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name= "Smoke test">
+  <test>
+    <classes>
+       <class name = "testngfiles.Annotations" />
+    </classes>
+  </test>
+</suite>

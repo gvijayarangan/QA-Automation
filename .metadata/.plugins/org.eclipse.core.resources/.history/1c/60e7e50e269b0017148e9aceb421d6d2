@@ -1,0 +1,28 @@
+package testngfiles;
+
+import org.testng.annotations.AfterSuite;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.DataProvider;
+//this runs first when the entire suite runs
+public class Annotation1 {
+	@BeforeSuite
+	public void Beforesuite()
+	{
+	System.out.println("before Suite");
+	}
+	
+	@AfterSuite
+	public void Aftersuite()
+	{
+	System.out.println("after Suite");
+	}
+	
+	@DataProvider
+	public Object[][] getData()
+	{
+		// Object[i][j] ->i is total test cases and j is total values
+		Object[][] data = new Object[3][2]
+	}
+	}
+}

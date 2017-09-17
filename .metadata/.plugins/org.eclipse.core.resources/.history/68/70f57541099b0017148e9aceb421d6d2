@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name= "Automation test">
+  <test name= "Smoke Test">
+    <packages>
+       <package name = "Suite1" />
+    </packages>
+  </test>
+</suite>

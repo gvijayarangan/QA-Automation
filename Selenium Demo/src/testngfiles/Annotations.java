@@ -6,6 +6,9 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
+import com.beust.jcommander.Parameter;
+import com.beust.jcommander.Parameters;
+
 public class Annotations  {
 
 	@BeforeMethod
@@ -27,11 +30,30 @@ public class Annotations  {
 	
 	}
 	
-	@Test(dependsOnMethods= {"Openbrowser"})
+	@Test(dependsOnMethods= {"Openbrowser"}, timeOut=0)
 	public void Closebrowser()
 	{
 	System.out.println("close browser");
 	}
+	
+	@Test(enabled=false)
+	public void skip()
+	{
+	System.out.println("skip");
+	}
+	
+	@Test(groups= {"Priority1"})
+	public void prior1()
+	{
+	System.out.println("priority1");
+	}
+	
+	@Test(groups= {"Priority2"})
+	public void prior2()
+	{
+	System.out.println("priority2");
+	}
+	
 	
 	@AfterMethod
 	public void Aftermethod()
