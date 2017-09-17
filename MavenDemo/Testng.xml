@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Author: Gopinath Vijayarangan
+Purpose: This code executes packages and classes with group as priority1 and is created for demo purposes
+-->
+<suite name= "Automation test">
+  <test name= "Smoke Test">
+    <groups>
+      <run>
+        <include name= "Priority1" /> 
+      </run>
+    </groups>
+    <packages>
+       <package name = "testngfiles" />
+    </packages>
+    <classes>
+       <class name = "Suite1.firstcodetng" /> 
+    </classes>
+  </test>
+</suite>
