@@ -18,7 +18,7 @@ public class firstcodetng {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.facebook.com/");
 		System.out.println(driver.getTitle());
-		System.out.println(driver.getPageSource());
+		//System.out.println(driver.getPageSource());
 		System.out.println(driver.getCurrentUrl());
 		driver.close();
 		
