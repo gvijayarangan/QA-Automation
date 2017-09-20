@@ -22,4 +22,5 @@
 <fullyQualifiedTypeName name="com.beust.jcommander.Parameters"/>
 <fullyQualifiedTypeName name="com.beust.jcommander.Parameter"/>
 <fullyQualifiedTypeName name="org.testng.TestNG"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By"/>
 </qualifiedTypeNameHistroy>

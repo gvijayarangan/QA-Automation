@@ -1,12 +1,9 @@
 package testngfiles;
 
 import org.testng.annotations.AfterSuite;
-import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
-
-import com.beust.jcommander.Parameters;
 //this runs first when the entire suite runs
 public class Annotation1 {
 	@BeforeSuite

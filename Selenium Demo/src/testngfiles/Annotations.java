@@ -6,9 +6,6 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-import com.beust.jcommander.Parameter;
-import com.beust.jcommander.Parameters;
-
 public class Annotations  {
 
 	@BeforeMethod
