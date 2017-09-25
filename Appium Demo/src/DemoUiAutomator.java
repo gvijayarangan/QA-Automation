@@ -9,9 +9,14 @@ public class DemoUiAutomator extends Appcapability{
 	public static void main(String[] args) throws MalformedURLException {
 		AndroidDriver<AndroidElement> driver = capabilities();
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-		//Android UI Automaton --> river.findElementByAndroidUIAutomator("attribute("value")");
+		//Android UI Automaton --> river.findElementByAndroidUIAutomator("attribute(\"value\")");
 		driver.findElementByAndroidUIAutomator("text(\"Views\")").click(); // For double quote inside double quote use \ for java to understand
 		driver.findElementByAndroidUIAutomator("text(\"Animation\")").click();
+		
+//to use property(clickable is a property) instead of attribute(text is attribute) we need to use new
+// driver.findElementByAndroidUIAutomator("new UiSelector().property(value)").size();		
+int a = driver.findElementByAndroidUIAutomator("new UiSelector().clickable(true)").size();
+	
 
 	}
 

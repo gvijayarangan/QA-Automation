@@ -9,7 +9,7 @@ public class Demotest1 extends Appcapability{
 		AndroidDriver<AndroidElement> driver = capabilities();
 		
 		//id, Xpath, classname, android UI automator
-		//xpath -> //tagname[@attribute =‘value’] - >tagname is class, 
+		//xpath -> //tagname[@attribute =‘value’] - >tagname is class name most of times 
 		//attribute: needs to be unique.here its id or text
 		driver.findElementByXPath("//android.widget.TextView[@text='Preference']").click();
 		//driver.findElementByXPath("//android.widget.TextView[@text='3. Preference dependencies']").click();
