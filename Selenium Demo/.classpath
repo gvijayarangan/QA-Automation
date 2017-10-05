@@ -39,5 +39,6 @@
 	<classpathentry kind="lib" path="C:/Users/gvijayarangan/Downloads/Selenium Jars/lib/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="lib" path="C:/Users/gvijayarangan/Downloads/Appium Jars/java-client-5.0.2.jar"/>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/gvijayarangan/Downloads/setups/jar files/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44-bin.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
